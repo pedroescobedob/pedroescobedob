@@ -1,14 +1,1 @@
-<!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
-  <!-- Your embedded video player code -->
-  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
-        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
-        <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
-      </blockquote>
-    </div>
-  </div>
+<img src="https://64.media.tumblr.com/be7f6fea96ff4e154b2feea231be07c8/27e7301cb79343a6-03/s640x960/acb09eaa534e881f23b9bb867bf61eed2bfb9939.gifv"/>
